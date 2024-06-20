@@ -23,21 +23,10 @@
 
 ![Martín's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvmaldonado&show_icons=true&theme=radical)
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cvmaldonado&theme=radical&no-bg=true&no-frame=true)
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
-### 📂 Featured Projects
-
-- **[Project 1](https://project1-link.com)** - A brief description of what this project does.
-- **[Project 2](https://project2-link.com)** - A brief description of what this project does.
-- **[Project 3](https://project3-link.com)** - A brief description of what this project does.
 
 ### 💬 Languages
 
