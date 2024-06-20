@@ -4,13 +4,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name](https://project-link.com)**.
-- 🌱 I’m currently learning **[Technology/Topic]**.
 - 👯 I’m looking to collaborate on **open source projects**.
-- 🤔 I’m looking for help with **[Topic/Skill]**.
+- 🤔 I’m looking for help with **AWS**.
 - 💬 Ask me about **web development, JavaScript, or anything tech-related**.
-- 📫 How to reach me: **[your-email@domain.com]**
-- 😄 Pronouns: **He/Him**
+- 📫 How to reach me: **010maldonadocarlos@gmail.com**
 - ⚡ Fun fact: **I love playing the guitar and coding at the same time!**
 
 ### 🛠️ Skills
