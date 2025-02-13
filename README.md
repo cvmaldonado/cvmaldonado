@@ -84,15 +84,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cvmaldonado&cache_seconds=1800&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="250" alt="stats graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=cvmaldonado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cvmaldonado&show_icons=true&count_private=true&theme=radical" height="250" />
-
+  <img src="https://streak-stats.demolab.com?user=cvmaldonado&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
