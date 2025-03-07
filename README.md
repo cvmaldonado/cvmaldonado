@@ -15,10 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cvmaldonado.cvmaldonado&"  />
-</div>
-
 ###
 
 <h1 align="center">Hey! 👋</h1>
