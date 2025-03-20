@@ -77,22 +77,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <a href="https://github.com/cvmaldonado" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=cvmaldonado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://github.com/cvmaldonado" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=cvmaldonado&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
-  </a>
-</div>
